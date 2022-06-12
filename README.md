@@ -11,7 +11,7 @@ pip3 install -r requirements.txt
 Our dataset will be publicly avialable after acceptation. 
 
 # Quick Start
-Preprocessing the munually labeled datasets from Five Universities:
+Preprocessing the munually labeled datasets from five Universities:
 ```
 python ack_preprocess.py
 ```
