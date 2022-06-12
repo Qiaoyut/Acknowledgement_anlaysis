@@ -8,7 +8,7 @@ pip3 install -r requirements.txt
 ```
 
 # Datasets
-Our dataset will be publicly avialable after acceptation. 
+Our dataset will be publicly avialable after acceptance. 
 
 # Quick Start
 Preprocessing the munually labeled datasets from five Universities:
